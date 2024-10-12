@@ -4,7 +4,7 @@ Bot ini memungkinkan Anda merekam siaran langsung dengan memberikan tautan. Bot 
 
 ## Features:
 - Merekam livestream melalui tautan ✅
-- Captions host name and ID❌
+- Captions host name and ID❌ (Hanya Tersedia di bot v 2.0)
 - Memotong video secara otomatis jika ukuran melebihi 2 GB ✅
 - Displays upload progress ✅
 - Mendukung rekaman multi-proses ✅
