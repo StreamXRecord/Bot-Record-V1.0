@@ -36,7 +36,7 @@ sudo apt install python3-pip && sudo apt install git
 
 2. Clone the repository:
 ```sh
-git clone https://github.com/StreamXRecord/Bot-Record-V1.0.git && StreamXRecord/
+git clone https://github.com/StreamXRecord/Bot-Record-V1.0.git StreamXRecord/
 ```
 
 3. Navigate to the cloned directory:
