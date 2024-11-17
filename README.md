@@ -1,3 +1,6 @@
+Code Bot Record V1 ini sudah tidak mendapatkan pembaruan atau perawatan/Maintance lebih lanjut(Sehingga rawan terjadinya BUG/ERROR). Jika Anda berminat menggunakan bot Telegram dengan fitur terbaru dan dukungan penuh, Anda dapat menghubungi saya melalui Telegram.
+
+
 ﻿# Livestream Recording Bot
 
 Bot ini memungkinkan Anda merekam siaran langsung dengan memberikan tautan. Bot ini mendukung berbagai platform yang kompatibel dengan VLC player, seperti MangoLive, BigoLive, PapayaLive, DreamLive, SugarLive, dan lainnya.
